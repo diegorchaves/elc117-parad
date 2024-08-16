@@ -1,0 +1,1 @@
+Programa que implementa um sistema de gestão de academia no terminal, utilizando Java.
